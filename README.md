@@ -1,3 +1,20 @@
+Here's the link for the Back-End :
+https://github.com/faricaav/Cashier-BackEnd
+<br/>
+
+Preview :
+![2023-05-16](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/fc5e51cd-0a2f-4895-a8be-b88281594ddf)
+<br/>
+![2023-05-16 (1)](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/61b9c52a-9afd-4df8-aeed-62ba16869c1b)
+<br/>
+![2023-05-16 (2)](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/e9e3c7d5-e0d5-4a07-99ad-6af1777699fd)
+<br/>
+![2023-05-16 (3)](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/f2e8128c-c762-475e-92a2-404aade70bc2)
+<br/>
+![2023-05-16 (4)](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/85e343ed-37ac-4e9d-a0a7-8849874eb86a)
+<br/>
+![2023-05-16 (5)](https://github.com/faricaav/Cashier-FrontEnd/assets/100252923/7d74713b-52f0-4ec3-a262-ce5faaa3ac2b)
+<br/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
