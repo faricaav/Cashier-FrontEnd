@@ -1,0 +1,13 @@
+figure {
+    /* border: 1px solid black; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    font-size: 1rem;
+    color: white;
+    background: #1D4ED8;
+      background: linear-gradient(149deg,  #1D4ED8 0%, rgba(22, 184, 243, 1) 65%);
+    border-radius: 50%;
+}
